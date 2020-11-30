@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+
+ __          __  _                          
+ \ \        / / | |                         
+  \ \  /\  / /__| | ___ ___  _ __ ___   ___ 
+   \ \/  \/ / _ \ |/ __/ _ \| '_ ` _ \ / _ \
+    \  /\  /  __/ | (_| (_) | | | | | |  __/
+     \/  \/ \___|_|\___\___/|_| |_| |_|\___|
+                                            
+                                            
+
+
 <!--
 **Slightowl/Slightowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
